@@ -1,0 +1,28 @@
+id: AB6026D01
+title: 'Rain of Siddhis: A Prayer to the Lineage of Rigdzin Düpa'
+type: translation
+pechas:
+- ICD8BE41D
+- I48F2535B
+- IE7D764E1
+- IDBB9C4DE
+- IEA625522
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:42:34.925367
+  last_modified_at: 2023-01-04 11:42:34.925496
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ICD8BE41D/2655: 0C91
+  I48F2535B/1A58: 0C91
+  IE7D764E1/2F7E: 0C91
+  IDBB9C4DE/F1F7: 0C91
+  IEA625522/904C: 0C91
